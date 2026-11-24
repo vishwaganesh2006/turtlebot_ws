@@ -1,0 +1,23 @@
+build/
+install/
+log/
+*.pyc
+__pycache__/
+.vscode/
+*.swp
+*.bag
+*.db3
+*.mcap
+*.env
+*.pem
+*.key
+secrets*
+# CAD / proprietary meshes: remove a line only if the files are public/safe
+*.step
+*.stp
+*.sldprt
+*.sldasm
+*.iges
+*.igs
+*.dwg
+*.dxf
